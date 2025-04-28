@@ -1,0 +1,31 @@
+{
+  "composition_style": "Dual Image Composite",
+  "base_form_image": {
+    "source": "Image A",
+    "role": "structural skeleton",
+    "style": "fragmented glitch network",
+    "geometry": "dense vertical striping with erratic horizontal slicing",
+    "edge_quality": "sharp and fractured",
+    "depth": "flat to shallow",
+    "motion_effects": "motion blur streaks, pixel tearing, and chromatic aberration artifacts"
+  },
+  "surface_texture_image": {
+    "source": "Image B",
+    "role": "surface skin",
+    "style": "organic, continuous or textural image mapped across base geometry",
+    "mapping_method": "conform and stretch Image B across the distortions of Image A, with partial opacity blending to preserve underlying structural noise",
+    "transparency": "variable across fractures and distortions",
+    "grain": "fine particulate or mist as appropriate to preserve the textural feel of Image B"
+  },
+  "color_integration": {
+    "primary_palette": "Image B",
+    "secondary_accents": "derived from chromatic aberrations in Image A",
+    "contrast_handling": "maintain high contrast along fracture lines, smooth blending across continuous surfaces"
+  },
+  "lighting": {
+    "source": "internal luminous gradients, no external shadowing",
+    "effects": "emphasize depth only where fractures cause layering; otherwise maintain a planar feeling"
+  },
+  "resolution": "ultra-high (8K or higher preferred)",
+  "final_appearance": "semi-organic fractured surface where recognizable elements of Image B emerge through the structural disruptions of Image A"
+}
